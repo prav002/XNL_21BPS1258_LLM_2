@@ -1,3 +1,6 @@
+Deployment Link:
+https://b87e-34-143-158-150.ngrok-free.app/summarize/?text=The%20new%20AI%20model%20by%20OpenAI%20has%20achieved%20breakthrough%20performance%20in%20NLP%20tasks.
+
 📌 PHASE 1: INITIAL DESIGN & INFRASTRUCTURE PLANNING
 
 Select LLM (GPT-Neo, GPT-J, T5, BLOOM) based on the project goal.
@@ -58,6 +61,7 @@ Use NGINX / HAProxy for efficient load balancing.
 Security & API Protection
 Encrypt data (AES-256, TLS) & secure APIs (OAuth, API Keys).
 Protect models using Watermarking / Secure Multi-Party Computation (SMPC).
+
 
 ✅ Final Takeaways
 
